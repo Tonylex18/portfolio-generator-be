@@ -1,0 +1,35 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/Users/mac/Desktop/Projects/lnaidbe/logs/general/.9cc1411915c80264ec1e87c563bda1d5b9cff0fc-audit.json",
+    "files": [
+        {
+            "date": 1770620892923,
+            "name": "/Users/mac/Desktop/Projects/lnaidbe/logs/general/general-2026-02-09.log",
+            "hash": "fcbf681bc2f673329f9656cdc6cee0e2a808910bc7c3b33c07d01cf40ce26d68"
+        },
+        {
+            "date": 1770795896823,
+            "name": "/Users/mac/Desktop/Projects/lnaidbe/logs/general/general-2026-02-11.log",
+            "hash": "f21c147c7e42a0f04c83944198200324d83e4ca641dd7fde6d6b61c3f9db021c"
+        },
+        {
+            "date": 1770893397463,
+            "name": "/Users/mac/Desktop/Projects/lnaidbe/logs/general/general-2026-02-12.log",
+            "hash": "6e5700cc76f09a358b45e71193565de8bcef470366eff1421cf14a987ff507e7"
+        },
+        {
+            "date": 1771007670367,
+            "name": "/Users/mac/Desktop/Projects/lnaidbe/logs/general/general-2026-02-13.log",
+            "hash": "7a0f8da266819063949ff07511509c75bd3050afe2cbc0462ff8c6505cd88ff0"
+        },
+        {
+            "date": 1771071347132,
+            "name": "/Users/mac/Desktop/Projects/lnaidbe/logs/general/general-2026-02-14.log",
+            "hash": "0bc9232e7f7fc610f27293c3f8b1668b7482b47299aae83c0cc7e78c6d01934b"
+        }
+    ],
+    "hashType": "sha256"
+}

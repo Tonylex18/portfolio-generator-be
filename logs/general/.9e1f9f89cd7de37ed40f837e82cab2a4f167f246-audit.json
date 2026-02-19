@@ -1,0 +1,25 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/Users/mac/Desktop/Projects/challenge/Portfolio-generator/backend/logs/general/.9e1f9f89cd7de37ed40f837e82cab2a4f167f246-audit.json",
+    "files": [
+        {
+            "date": 1771322003252,
+            "name": "/Users/mac/Desktop/Projects/challenge/Portfolio-generator/backend/logs/general/general-2026-02-17.log",
+            "hash": "c8e17a05fbb28f7d250f569f76913a126d085a6897b56ef3477f681e88562942"
+        },
+        {
+            "date": 1771409486552,
+            "name": "/Users/mac/Desktop/Projects/challenge/Portfolio-generator/backend/logs/general/general-2026-02-18.log",
+            "hash": "2815831fcb04d08f61770885710535cfd03cdc1c3425607a246a15fc0cb88e93"
+        },
+        {
+            "date": 1771459405481,
+            "name": "/Users/mac/Desktop/Projects/challenge/Portfolio-generator/backend/logs/general/general-2026-02-19.log",
+            "hash": "2e2faf7360ece2a648ceab6a718c508ee01b5fc5116d2afc270304b14bcc0cc1"
+        }
+    ],
+    "hashType": "sha256"
+}

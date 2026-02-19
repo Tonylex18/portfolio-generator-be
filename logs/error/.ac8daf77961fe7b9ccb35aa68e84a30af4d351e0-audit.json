@@ -1,0 +1,25 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/Users/mac/Desktop/lnaidbe/logs/error/.ac8daf77961fe7b9ccb35aa68e84a30af4d351e0-audit.json",
+    "files": [
+        {
+            "date": 1760098389974,
+            "name": "/Users/mac/Desktop/lnaidbe/logs/error/error-2025-10-10.log",
+            "hash": "9f479f7f0fd70ae4ff5cbb0e10f1ba14525c3657c84fdfaecbd7a7319ccdb3e4"
+        },
+        {
+            "date": 1760493159193,
+            "name": "/Users/mac/Desktop/lnaidbe/logs/error/error-2025-10-15.log",
+            "hash": "515a5f29f5e4937c866b825b02dd86a34a14a28f3b3f2792f8fb409fb3e809b4"
+        },
+        {
+            "date": 1760605541284,
+            "name": "/Users/mac/Desktop/lnaidbe/logs/error/error-2025-10-16.log",
+            "hash": "a8a4ff1e6622d372c5eed2a003a6d69115e6e4bc54f9c9df52a1588bf2b62111"
+        }
+    ],
+    "hashType": "sha256"
+}
